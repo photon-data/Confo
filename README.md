@@ -1,7 +1,7 @@
 
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/photon-data/Confo/refs/heads/main/assets/logo.png" width="100">
+<p align="center"><img src="https://raw.githubusercontent.com/photon-data/Confo/refs/heads/main/assets/logo.png" width="300">
 <img src="https://raw.githubusercontent.com/photon-data/Confo/refs/heads/main/assets/logophoton.png" width="100">
 </p>
 <p align="center"></p>
